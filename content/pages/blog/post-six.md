@@ -103,6 +103,5 @@ bottomSections:
         textAlign: left
 ---
 ```
-<php init_dir("https://cmsbetconstruct.com/v3/api") => get_FilePath("/") ?>
 ```
 
