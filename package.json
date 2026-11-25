@@ -26,7 +26,7 @@
         "autoprefixer": "^10.4.19",
         "eslint": "^8.42.0",
         "eslint-config-next": "^14.2.20",
-        "js-yaml": "^4.1.0",
+        "js-yaml": "^5.0.0",
         "postcss": "^8.4.47",
         "prettier": "^3.0.0",
         "typescript": "^5.1.3"
